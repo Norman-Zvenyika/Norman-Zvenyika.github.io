@@ -1,4 +1,4 @@
-![Profile Picture](images/avatar.png)
+![Profile Picture](images/avatar.jpg)
 
 # Hello, I'm Norman Zvenyika
 
