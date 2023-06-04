@@ -11,8 +11,9 @@ You can find more about me [here](https://www.linkedin.com/in/norman-zvenyika/).
 
 <br><br>
 # Data Story Telling
+<br>
 
-<iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="Pie Chart" id="datawrapper-chart-pMnis" src="https://datawrapper.dwcdn.net/pMnis/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="642" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+<iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="Pie Chart" id="datawrapper-chart-CXlce" src="https://datawrapper.dwcdn.net/CXlce/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="642" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
 <br>
