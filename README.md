@@ -29,7 +29,7 @@ You can find more about me [here](https://www.linkedin.com/in/norman-zvenyika/).
 </script>
 
 <br><br>
-# Interactive Data Visualization Using ArcGIS
+# Mapping Tweets, Shaping Public Health: A Covid-19 Case Study
 <br>
 <iframe 
     width="100%" 
@@ -41,3 +41,9 @@ You can find more about me [here](https://www.linkedin.com/in/norman-zvenyika/).
     title="Interactive Data Visualization Using ArcGIS" 
     src="https://lu.maps.arcgis.com/apps/webappviewer/index.html?id=4938d851476e4950aeda147b7d513dfb">
 </iframe>
+
+<p>In the midst of the Covid-19 pandemic, the voices of individuals speak volumes. Their collective voices echo across social media platforms, painting a vivid picture of the public's perceptions, fears, and responses to this global health crisis. One such platform, Twitter, has proven to be a powerful tool for understanding the real-time sentiment and engagement of the populace. By mapping tweets related to Covid-19, an unexpected pattern has emerged; Pennsylvania (PA) has become a beacon of interaction, a hub of concerned voices providing timely and invaluable insights into the ongoing pandemic.</p>
+
+<p>A pressing issue that arises from this analysis is: <strong>what is driving this intense focus in Pennsylvania, and how can these insights inform public health policy and communication?</strong> To address this, a unique solution comes into focus. Harnessing the potential of this twitter heat map, public health organizations, and policymakers can tailor their strategies to the most pressing concerns revealed through these tweets. Leveraging this data, they can launch targeted campaigns addressing misinformation, promoting preventative measures, or simply providing a platform for shared experiences and support.</p>
+
+<p>Adopting this approach offers a host of benefits. Policymakers would be privy to real-time public sentiment, enabling them to respond swiftly and effectively to emerging trends. It would also facilitate a direct line of communication with the public, enhancing trust and compliance with health guidelines. Ultimately, this approach could save lives, minimize the spread of the virus, and provide comfort in the face of uncertainty. The call to action here is clear: <strong>it's time for authorities to tune into these digital conversations, harness the power of big data and drive informed, dynamic, and responsive public health strategies in the face of diseases like Covid-19.</strong></p>
