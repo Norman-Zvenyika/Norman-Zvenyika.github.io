@@ -41,7 +41,7 @@ You can find more about me [here](https://www.linkedin.com/in/norman-zvenyika/).
     title="Interactive Data Visualization Using ArcGIS" 
     src="https://lu.maps.arcgis.com/apps/webappviewer/index.html?id=4938d851476e4950aeda147b7d513dfb">
 </iframe>
-
+<br>
 <p>In the midst of the Covid-19 pandemic, the voices of individuals speak volumes. Their collective voices echo across social media platforms, painting a vivid picture of the public's perceptions, fears, and responses to this global health crisis. One such platform, Twitter, has proven to be a powerful tool for understanding the real-time sentiment and engagement of the populace. By mapping tweets related to Covid-19, an unexpected pattern has emerged; Pennsylvania (PA) has become a beacon of interaction, a hub of concerned voices providing timely and invaluable insights into the ongoing pandemic.</p>
 
 <p>A pressing issue that arises from this analysis is: <strong>what is driving this intense focus in Pennsylvania, and how can these insights inform public health policy and communication?</strong> To address this, a unique solution comes into focus. Harnessing the potential of this twitter heat map, public health organizations, and policymakers can tailor their strategies to the most pressing concerns revealed through these tweets. Leveraging this data, they can launch targeted campaigns addressing misinformation, promoting preventative measures, or simply providing a platform for shared experiences and support.</p>
